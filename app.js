@@ -1,1 +1,1 @@
-console.log('123123')
+var name = 'Jack';
