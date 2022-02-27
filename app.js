@@ -4,8 +4,8 @@ function fun(){
 function ilonaKep() {
     var img = new Image();
     img.src = 'https://pic.rutubelist.ru/video/17/b1/17b100a0bcbc6e5e8d11101cde21aca7.jpg';
-    img.width = "570";
-    img.height = "320";
+    img.width = "57";
+    img.height = "32";
     document.body.appendChild(img)
   }
 //'https://pic.rutubelist.ru/video/17/b1/17b100a0bcbc6e5e8d11101cde21aca7.jpg'
